@@ -1,0 +1,4 @@
+Assets/ThirdParty/OpenCVForUnity/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/DlibFaceLandmarkDetector/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/DlibFaceLandmarkDetector/Plugins/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/OpenCVForUnity/Plugins/* filter=lfs diff=lfs merge=lfs -text
